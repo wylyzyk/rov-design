@@ -35,7 +35,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
     "prettierjs.PrettierConfiguration.Package": "D:\\Web\\react\\rov-design\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "settings.editor.selected.configurable": "inlay.hints",
     "ts.external.directory.path": "D:\\Web\\react\\rov-design\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -55,7 +55,9 @@
       <option name="presentableId" value="Default" />
       <updated>1688616719652</updated>
       <workItem from="1688616720793" duration="7255000" />
-      <workItem from="1688628831324" duration="53959000" />
+      <workItem from="1688628831324" duration="57032000" />
+      <workItem from="1689989916540" duration="75000" />
+      <workItem from="1689990018387" duration="17359000" />
     </task>
     <servers />
   </component>

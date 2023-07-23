@@ -7,10 +7,6 @@ import { MenuItem } from "./components/Menu/menuItem";
 import { SubMenu } from "./components/Menu/subMenu";
 import { Icon } from "./components/Icon/icon";
 import { Transition } from "./components/Transition/transition";
-import styled from "./App.module.scss"
-
-console.log(styled["app-wrapper"], styled["container"])
-console.log(typeof styled)
 
 library.add(fas);
 

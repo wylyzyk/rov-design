@@ -10,7 +10,7 @@ const GenterDecorator = (storyFn: any) => <div style={styles}>{storyFn()}</div>
 
 const meta = {
     title: "Component/Button/Button",
-    tags: ["autodocs"],
+    // tags: ["autodocs"],
     argTypes: {
         disabled: {
             control: "boolean"

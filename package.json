@@ -49,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@storybook/addon-actions": "^7.1.0",
     "@storybook/addon-essentials": "7.0.26",
     "@storybook/addon-interactions": "7.0.26",
     "@storybook/addon-links": "7.0.26",
@@ -58,6 +59,7 @@
     "@storybook/react-webpack5": "7.0.26",
     "@storybook/testing-library": "0.0.14-next.2",
     "@types/react-transition-group": "^4.4.6",
+    "@types/storybook__addon-actions": "^5.2.1",
     "@types/testing-library__jest-dom": "^5.14.7",
     "babel-plugin-named-exports-order": "0.0.2",
     "eslint-plugin-storybook": "^0.6.12",

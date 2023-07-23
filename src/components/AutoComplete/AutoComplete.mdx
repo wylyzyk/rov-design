@@ -1,0 +1,17 @@
+import { Canvas, Controls, Description, Meta, Story } from "@storybook/blocks";
+import * as AutoCompleteStories from "./AutoComplete.stories";
+import { AutoComplete } from "./autoComplete";
+
+<Meta of={AutoCompleteStories} component={AutoComplete} />
+
+# AutoComplete 自动完成
+
+<Description />
+
+## 何时使用
+
+<Canvas>
+  <Story of={AutoCompleteStories.Primary} />
+</Canvas>
+
+<Controls />
